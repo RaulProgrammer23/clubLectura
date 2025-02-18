@@ -19,8 +19,6 @@ Cambia por tu ruta al descargar este proyecto:
 
 ```php
 $bd = new PDO("mysql:host=localhost;dbname=club_lectores","tu-user","tu-password",$opciones);
-
-```php
 define("base_url", "http://localhost/PHP/DAW/clubLectura/");```
 
 
