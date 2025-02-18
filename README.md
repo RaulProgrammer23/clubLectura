@@ -20,7 +20,7 @@ $bd = new PDO("mysql:host=localhost;dbname=club_lectores","tu-user","tu-password
 define("base_url", "http://localhost/PHP/DAW/clubLectura/");
 .htaccess -> ruta para definir el Error 404
 
-### Ejemplo Gráfico en Local 
+## Ejemplo Gráfico en Local 
 
 ![image](https://github.com/user-attachments/assets/bddb8ddc-8b6f-4c7e-83d1-574a5e3ce5d1)
 
