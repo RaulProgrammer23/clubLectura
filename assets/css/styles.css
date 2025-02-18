@@ -179,12 +179,11 @@ footer p:last-of-type {
     z-index: -1; /* Asegúrate de que el video quede detrás del contenido */
 }
 
-/* Esto es opcional si deseas poner un filtro oscuro sobre el video */
+/*filtro oscuro sobre el video */
 .layout_content, .content {
     position: relative;
     z-index: 1;
 }
-
 
 /******* ESTILOS USUARIO ADMIN *****/
 
@@ -207,7 +206,6 @@ h1.admin {
  
 /*********** ESTILO USER NORMAL *******/
 
-/* Estilos para la vista de usuario */
 body.user {
     background-color: #f5f5f5; /* Fondo gris claro */
 }
